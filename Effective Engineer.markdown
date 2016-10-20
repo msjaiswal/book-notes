@@ -49,3 +49,20 @@
 3. Instrument Everything
 
 - Surround yourself with great advisors
+
+
+### Iteration Speed
+
+- Continuous deployment to support rapid validation.
+- High test coverage to reduce build and site breakages.
+- Fast unit tests to encourage people to run them.
+- Fast and incremental compiles and reloads to reduce development time.
+
+
+Step 1:
+Optimise for product market fit. 
+Optimise for scale.
+- Better deployment technique.
+
+
+ 
