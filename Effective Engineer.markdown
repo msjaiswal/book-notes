@@ -42,7 +42,7 @@
     - 1) maximize impact, 
     - 2) are actionable, 
     - 3) are responsive yet robust. 
-
+    
 ### Instagram
 1. Simplicity
 2. Optimise for Operational Complexity
