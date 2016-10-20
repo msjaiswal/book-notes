@@ -38,41 +38,37 @@ Reuse of functionality. Same microservice can be used for different purpose.
 
 ### Shared Libraries                   
 
-### Disadvantages:                   
-You loose true heterogeneity               
-Unless using dlls, you cannot deploy a new library without deploying the entire process.         
-What is ok?
-Shared Code that isn't specific to business domain and needs to be reused is fine.                   
-What's not ok?
-Shared code to communicate between services is NOT good at all.                                       
-Modules                   
+#### Disadvantages:                   
+- You loose true heterogeneity               
+- Unless using dlls, you cannot deploy a new library without deploying the entire process.         
+- What is ok?
+  -  Shared Code that isn't specific to business domain and needs to be reused is fine.                   
+- What's not ok?
+  - Shared code to communicate between services is NOT good at all.                                       
 
-Talks a bit about module and process level decoupling.                               
-TODO
+
+### Modules                   
+- Talks a bit about module and process level decoupling.                               
+- TODO
+
 ### Evolutionary Architect                   
 
-Architects are incharge of making sure we have a joined-up technical vision, the one that delivers the system customer needs .                   
-
-Architects have a direct impact on the quality of systems, on their organisation's ability to respond to change.                   
-
-Be worried about what happens between the services and be liberal about what happens inside them.                   
+- Architects are incharge of making sure we have a joined-up technical vision, the one that delivers the system customer needs. 
+- Architects have a direct impact on the quality of systems, on their organisation's ability to respond to change.
+- Be worried about what happens between the services and be liberal about what happens inside them.                   
 
 ### A Principle Approach                   
+Making decisions in system design is all about tradeoffs, and microservices architecture gives us a lot of tradeoffs to make. 
 
-Making decisions in system design is all about tradeoffs, and microservices architecture gives us a lot of tradeoffs to make.                   
-
-### Principles                   
-
-Principles are the rules you have made to align what you are doing in to some larger goal, and will sometimes change.                   
+**Principles**: Principles are the rules you have made to align what you are doing in to some larger goal, and will sometimes change.                   
 Example: 12 factor app                   
 Fewer than 10 principles are good                                       
-Practices                   
 
-Practices sometimes reflect constraints. Example Only Centos is allowed.                   
-The key point is that there is value in having overarching ideas that guide how the system evolves, and in having enough detail so that people know how to implement those ideas.                   
+**Practices**
+- Practices sometimes reflect constraints. Example Only Centos is allowed.                   
+- The key point is that there is value in having overarching ideas that guide how the system evolves, and in having enough detail so that people know how to implement those ideas.                   
 
 ### The Required Standard                    
-
 Define what is a "good citizen" service in your system ?                    
 "It needs to be a cohesive system made of may small parts with autonomous life cycles but all coming together." - Ben Christensen, Netflix               
 Define clear set of attributes that each service should have.                   
