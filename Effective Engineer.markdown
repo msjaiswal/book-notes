@@ -85,6 +85,40 @@
   - One editor. One high level language. Shell. Keyboard > Mouse. Automate manual workflows. Use interactive shell. Make running specific tests easy.
 ** Faster you can iterate, faster you can learn.** 
 
+### Measure what you want to Improve
+- Use metric to drive progress
+  - If you can't measure, you can't imrove.
+  - A good metric. 
+    - Good metric helps you focus on right things.
+    - Good metric helps you guard against future regressions. 
+    - Performance Ratcheting: Any change should strictly improve the metric.  
+    - Bad metric can lead to unwanted behavior.
+    - Examples: 
+      - #hours worked < Productivity
+      - click through rates < long click through rates
+
+  - Metric you choose influences your decisions and behavior.
+  - Look for metric that, when optimized, maximizes impact for the team.
+  - Actionable metric - Whose movement can be causally explained by team's effort.
+  - Responsive metric - Updates quickly to give back feedback whether a given change was =ve or -ive.
+  - Choosing a metric is high leverage.
+  - Dedicate time to pick right metric. 
+- Instrument everythong to understand what's going on. 
+  - Measure anything, measure everything. 
+  - Graphite, statsd. A single line of code lets you define a new counter or timer on the fly. 
+  - Measuring goals you want to achieve is high leverage.
+- Internalize useful numbers  
+  - Knowledge of useful numbers provide a valuable shortcut for knowing where to invest efforts to maximize gains.
+  - Need upfront work. Need not be accurate, ballpark idea suffices.
+  - Knowing useful numbers enables you to do back of the envelope calculations to quickly estimate the perrmance properties of a design without actually building it.
+  - Internalizing useful number help you spot anamalies.
+Be skeptical about data integrity.
+ - log data liberally.
+ - Build tools to iterate on data accuracy sooner.
+ - Examine data sooner.
+ - When numbers look off, dig in to it sooner. 
+ 
+:heavy_check_mark: Measure your progress. Carefully choose your top-level metric. Instrument your system. Know your numbers. Prioritize data integrity. 
 ### Reduce Operational Complexity
 - Keep no. of technologies low. Don’t sway towards shiny new technologies.
 - Do the simple thing first
