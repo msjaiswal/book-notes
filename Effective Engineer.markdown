@@ -81,16 +81,21 @@
   - Extra time spent in optimizing debugging workflow can help you fix annoying bugs with less headache.
   - Debugging is hard. It's time conuming. Upfront investments to shorten debugging loops are worth it. 
 
+- High test coverage to reduce build and site breakages.
+- Fast unit tests to encourage people to run them.
+- Fast and incremental compiles and reloads to reduce development time.
+
 - Master you Programming Environment  
   - One editor. One high level language. Shell. Keyboard > Mouse. Automate manual workflows. Use interactive shell. Make running specific tests easy.
 ** Faster you can iterate, faster you can learn.** 
 
 ### Measure what you want to Improve
 - Use metric to drive progress
-  - If you can't measure, you can't imrove.
-  - A good metric. 
-    - Good metric helps you focus on right things.
-    - Good metric helps you guard against future regressions. 
+  - If you can't measure it, you can't improve it.
+  - Good metric. 
+    - Helps you focus on right things.
+    - Drives forward progress.
+    - Helps you guard against future regressions. 
     - Performance Ratcheting: Any change should strictly improve the metric.  
     - Bad metric can lead to unwanted behavior.
     - Examples: 
@@ -119,16 +124,71 @@ Be skeptical about data integrity.
  - When numbers look off, dig in to it sooner. 
  
 :heavy_check_mark: Measure your progress. Carefully choose your top-level metric. Instrument your system. Know your numbers. Prioritize data integrity. 
+
+### Validate your ideas early and often. 
+- Not validating early leads to wasted efforts.
+- Dont delay get feedback. 
+- Find low effort ways to validate work. 
+- Power of small batches. Helps you avoid making a big mistake by stopping the flow.
+- Approach problem iteratively. 
+- No large implementations.
+- Working solo? Be wary. Be extra vocal and get feedback.
+
+### Improve project estimation skills.
+- Beware of mythical man month. Communication overhead is significant. 
+- Reduce risk early
+- Rewrite projects - almost always fail. 
+- Additional hours hurt prooductivity. Causes burnout. 
+- Do the riskiest task first. 
+- Allow buffer room for the unknown.
+
+### Balance Quality with Pragmatism
+- High codequality. Code readability.
+- Establish sustainable code review process.
+- Code reviews help:
+  - Catch bugs and design problems early.
+  - Sharing working knowledge of the codebase.
+  - Increases long term agility. Easier to unerstand, quicker to modify. 
+
+#### Manage complexity through Abstraction  
+- Example: MapReduce
+- Right abstractions make huge difference.
+- “Pick the right ones, and programming will flow naturally from design; modules will have small and simple interfaces; and new functionality will more likely fit in without extensive reorganization,”
+- “Pick the wrong ones, and programming will be a series of nasty surprises: interfaces will become baroque and clumsy as they are forced to accommodate unanticipated interactions, and even the simplest of changes will be hard to make.”
+- The right abstraction can increase engineering productivity by an order of magnitude. 
+- Simple abstractions avoid interweaving multiple concepts, so that you can reason about them independently rather than being forced to consider them together.
+- Designing good abstractions take work. 
+- An abstraction's usage and popularity provides a reasonable proxy for it's quality.
+
+#### Automate Testing
+- Unit test cases and some integration testing provide a scalable way of managing growing codebase.
+- A suite of extensive and automated tests can reduce overall error rates by validating the quality and by safeguardingagainst regressions.
+- Tests also allow engineers to make changes, especially large refactorings, with significantly higher confidence.
+- Despite its benefits, it can be difficult to foster a culture of automated testing.
+- Focus on high leverage tests. 
+- Writing more tests, creating a virtuous feedback cycle and saving more development time.
+
+#### Repay Techincal Debt
+- Technical debt refers to all the deferred work that’s necessary to improve the health and quality of the codebase and that would slow us down if left unaddressed.
+- Accumulating technical debt is fine as far as it is repaid within time. 
+- Refactor often.
+
+
 ### Reduce Operational Complexity
 - Keep no. of technologies low. Don’t sway towards shiny new technologies.
+- Every additional technology you add is is guaranteed to go worong eventually. Will need your time. 
 - Do the simple thing first
-- ** Simplicity **
+- Embrace operational simplicity. 
+- The first solution that comes to mind is generally complex. Don't stop. Keep peeling off the layers of onion. 
 - Simplify the architecture to reduce their operational burden. 
 - “What’s the simplest solution that can get the job done while also reducing our future operational burden?” 
+- Discipline to focus on simplicity is high leverage. 
 
 ### Fail Fast 
+- Fail immediately and visibly.
 - doesn’t necessarily mean crashing your programs for users 
-- fail-fast  to surface issues immediately 
+- fail-fast to surface issues immediately 
+- Failing fast is high leverage as it saves devugging time.
 
 ### Relentlessly Automate
 - Automating mechanics is good.
@@ -136,42 +196,31 @@ Be skeptical about data integrity.
 - Hone Your Ability to Respond and Recover Quickly 
     - Leverage ( Recovering quickly ) > Leverage ( Preventing Failures )
 - “script for success,” practice failure scenarios, and work on our ability to recover quickly. 
+- Make batch process idempotent 
+- Make processes retrable i.e. not leaving any global state. 
 
-**"You’re a staff engineer if you’re making a whole team better than it would be otherwise. You’re a principal engineer if you’re making the whole company better than it would be otherwise. And you’re distinguished if you’re improving the industry.”**
-￼
-- Automated testcases lead to higher confidence when refactoring.
-- Write test cases when the code is fresh in mind.
-- Don’t be dogmatic about 100% code coverage.
-- Value of tests increases over time and cost to write goes down. 
-
-### Technical Debt
-- Taking technical debt is fine as far as it is repaid within time. 
-
-### Measure What You Want to Improve
-- If you can’t measure it, you can’t improve it 
-- Good Metric
-    - They help you focus on the right things 
-    - Drives forward progress.
-- The metric you choose influences your decisions and behavior. 
-- Choose metrics that  
-    - 1) maximize impact, 
-    - 2) are actionable, 
-    - 3) are responsive yet robust. 
-    
-### Instagram
-1. Simplicity
-2. Optimise for Operational Complexity
-3. Instrument Everything
-
+### Invest in your team's Growth
+- Invest in onboarding.
+- The higher you climb up the engineering ladder, the more your effectiveness will be measured not by your individual contributions but by your impact on the people around you.
+- **"You’re a staff engineer if you’re making a whole team better than it would be otherwise. You’re a principal engineer if you’re making the whole company better than it would be otherwise. And you’re distinguished if you’re improving the industry.”** 
+￼- Focus primarily on making everyone around you succeed.
+- Your career depends on your team's success.
+- Make hiring everyone's responsibility. 
+- Shared ownership of code. 
+  - Keep bus factor more than one. 
+  - Shared ownershop removes isolated silos of information.
+- Build collective wisdom through post mortems.
+- Invest in automated testing.
+  - Automated testcases lead to higher confidence when refactoring.
+  - Write test cases when the code is fresh in mind.
+  - Don’t be dogmatic about 100% code coverage.
+  - Value of tests increases over time and cost to write goes down. 
+- Hire the best. 
 - Surround yourself with great advisors
 
+:sunny: **“Leverage is the lens through which effective engineers view their activities. ”** :sunny:
 
-### Iteration Speed
 
-- Continuous deployment to support rapid validation.
-- High test coverage to reduce build and site breakages.
-- Fast unit tests to encourage people to run them.
-- Fast and incremental compiles and reloads to reduce development time.
 
 
 Step 1:
