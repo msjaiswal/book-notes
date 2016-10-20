@@ -220,13 +220,29 @@ Be skeptical about data integrity.
 
 :sunny: **“Leverage is the lens through which effective engineers view their activities. ”** :sunny:
 
+### 10 Books to read: 
+- Peopleware Productive projects and Teams. Amazon. My Summary.
+- Team Geek: A Software Developer’s Guide to Working Well with Others. (Debugging Teams) Amazon. My Summary. 
+- High Output Management
+- Getting Things Done: The Art of Stress-Free Productivity
+- The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich
+- The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
+- Conscious Business: How to Build Value Through Values
+- Your Brain at Work
+- Flow: The Psychology of Optimal Experience
+- Succeed: How We Can Reach Our Goals
 
+### Blogs: 
+“Recommended Blogs To Follow
 
-
-Step 1:
-Optimise for product market fit. 
-Optimise for scale.
-- Better deployment technique.
-
+http://www.theeffectiveengineer.com/. The Effective Engineer is my personal blog, where I write about engineering habits, productivity tips, leadership, and culture.
+http://www.kalzumeus.com/. Patrick McKenzie runs his own software business and has written many excellent long-form articles on career advice, consulting, SEO, and software sales.
+http://katemats.com/. Kate Matsudaira, who has worked at large companies like Microsoft and Amazon as well as at startups, shares advice about tech, leadership, and life on her blog.”
+“http://randsinrepose.com/. Michael Lopp has worked for many years in leadership positions at Netscape, Apple, Palantir, and Pinterest, and writes about tech life and engineering management.
+http://softwareleadweekly.com/. Oren Ellenbogen curates a high-quality weekly newsletter on engineering leadership and culture.
+http://calnewport.com/. Cal Newport, an assistant professor of computer science at Georgetown, focuses on evidence-based advice for building a successful and fulfilling life.
+http://www.joelonsoftware.com/. Joel Spolsky, the co-founder of Stack Exchange, provides all sorts of programming pearls of wisdom on his blog.
+http://martinfowler.com/. Martin Fowler, author of the book Refactoring, writes about how to maximize the productivity of software teams and provides detailed write-ups of common programming patterns.
+http://pgbovine.net/. Philip Guo, a computer science professor, has written extensively and openly about his graduate school and work experiences.”
 
  
