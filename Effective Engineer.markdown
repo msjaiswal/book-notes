@@ -1,8 +1,42 @@
 # Effective Engineer
+- By Edmond Lau
+- Highly Recommended :+1:
+- http://www.theeffectiveengineer.com/
+
+### What's an Effective Engineer? 
+- They are the people who get things done. Effective Engineers produce results. 
+
+# Adopt the Right Mindsets
+
+### Focus on High Leverage Activities
+- Leverage = Impact Produced / Time Invested
+- Use Leverage as Your Yardstick for Effectiveness
+- 80% of the impact comes from 20% of the work.
+- Focus on high leverage and not just easy wins.
+
+### Optimize for Learning 
+- Change jobs if you have to. 
+- Optimizing for learning is high leverage. 
+- Adopt a growth mindset. 
+  - Talk to people. Become good at telling stories. It gets better with time. 
+  - Those with a growth mindset believe that they can cultivate and grow their intelligence and skills through effort.
+  - Own your story.
+
+- Invest in the rate of learning
+  - Compounding leads to exponential growth. Earlier the compounding starts, the better. 
+  - Working on unchallenging tasks is a huge opportunity cost. You missed out on compounded learning. 
+  - Prioritize learning over profitability.
+  - Invest your time in activities with the highest learning rate.
+  
+- Seek Work Environments Conducive to Learning
+  - 
+  
+
 
 ### Invest in Iteration Speed 
 - Continuous Deployment
-- Will save a lot of time in manual deployment of code.
+- Will save a lot of time in manual deployment of code.They are the people who get things done. Effective Engineers produce results. 
+
 
 ### Reduce Operational Complexity
 - Keep no. of technologies low. Don’t sway towards shiny new technologies.
