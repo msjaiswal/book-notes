@@ -23,41 +23,36 @@ On gurus:
 - Make it easy to reuse
 - Orthogonal. Eliminate effects between unrelated things.
 
-*Nothing is more dangerous than an idea if it’s the only one you have.*
+**Nothing is more dangerous than an idea if it’s the only one you have.**
+- There are no final decisions
+- Estimate to avoid surprises.
 
-There are no final decisions
-
-Estimate to avoid surprises.
-
-
-Debugging
+### Debugging
 - Before debugging, set the right mindset. Turn off defences for ego, pressure and relax. Don’t panic. 
 - Make it reproducible.
 - Rubber ducking Explain it to someone.
 - Binary Search :P
 
-Design By Contract
-If it can’t happen, use assertions to make sure that it won’t. 
-Finish what you start - close files etc. 
+### Design By Contract
+- If it can’t happen, use assertions to make sure that it won’t. 
+- Finish what you start - close files etc. 
 
+### Minimize Coupling 
+- Good fences make good neighbors. 
 
-Minimize Coupling 
-Good fences make good neighbors. 
+- Make system highly configurable.
+- Design using services. 
 
-Make system highly configurable.
-Design using services. 
+- Refactor early, refactor often.
 
-Refactor early, refactor often.
-Design to Test
+### Design to Test
+- Ad hoc testing - don’t throw away your test case. Add it to existing unit tests
+- Test your software or users will.
 
-** Ad hoc testing - don’t throw away your test case. Add it to existing unit tests. **
-Test your software or users will.
+**Perfection is achieved, not when there is nothing left to add but when there is nothing to throw away.**
 
-Perfection is achieved, not when there is nothing left to add but when there is nothing to throw away. 
-
-Don’t be a slave to formal methods like UML etc.
-
-Civilisations advance by extending the number of important operations we can perform without thinking about them. 
+- Don’t be a slave to formal methods like UML etc.
+- Civilisations advance by extending the number of important operations we can perform without thinking about them. 
 
 
 Test early, Test often. Test Automatically. 
