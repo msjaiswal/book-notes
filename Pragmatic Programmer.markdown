@@ -55,9 +55,9 @@ On gurus:
 - Civilisations advance by extending the number of important operations we can perform without thinking about them. 
 
 
-Test early, Test often. Test Automatically. 
+### Test early, Test often. Test Automatically. 
 - The earlier a bug is found, the cheaper it is to remedy. 
-- Find bugs one. If a human finds a bug, that should be the last time a human finds that bug.
+- Find bugs once. If a human finds a bug, that should be the last time a human finds that bug.
 
-Pride and Prejudice
+### Pride and Prejudice
 - Sign your work.
