@@ -1,3 +1,6 @@
+# [Building Microservices](https://www.amazon.in/Building-Microservices-Designing-Fine-Grained-Systems-ebook/dp/B00T3N7XB4)
+![](https://images-eu.ssl-images-amazon.com/images/I/51e6hCWFZNL.jpg)
+
 Here are the notes that I made while reading the book. These concepts are not something which you can understand and digest all at once. But here is my attempt to make revision of the book easy.
 
 I am not a copyright expert and I am unsure if its ok to copy excerpts from book and publish publicly. Tell me if this is not allowed. Please don't sue me :)
