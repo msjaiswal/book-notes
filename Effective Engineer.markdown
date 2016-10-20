@@ -6,7 +6,7 @@
 ### What's an Effective Engineer? 
 - They are the people who get things done. Effective Engineers produce results. 
 
-# Adopt the Right Mindsets
+## Adopt the Right Mindsets
 
 ### Focus on High Leverage Activities
 - Leverage = Impact Produced / Time Invested
@@ -29,14 +29,61 @@
   - Invest your time in activities with the highest learning rate.
   
 - Seek Work Environments Conducive to Learning
-  - 
-  
+  - Fast Growth: Companies where #problems >> #resources. Opportunity to choose high impact work.
+  - Make sure you are working on high priority projects. 
+  - Openness: Look for culture with curiosity, where everyone is encouraged to ask questions.
+  - Fast Paced. 
+  - People smarter than you.
+  - Autonomy: Freedom to choose what to work on. Smaller comanies => More autonomy.
+   
+- While on Job
+  - Make a daily habit of acquiring new skills.
+  - Read code written by brilliant engineers. 
+  - Jump fearlessly into code you don't know.
+  - Always be learning. Invest in skills that are in high demand.
+  - Read Books. Attend Conferences.
+  - Build and maintain strong relationships.
+
+### Prioritize Regularly
+- Opportunity cost on working on wrong ideas can set back growth by years. 
+- Prioritize tasks based on ROI
+- Regular prioritization is high leverage activity. 
+
+- On TODO Lists
+  - Maintain a 'single' todo lists where all tasks are listed. 
+  - Don't try to remember stuff. Brain is bad at remembering. It's rather good at processing. 
+- Ask yourself regularly: Is this the most important thing I wshould be working on ? 
+- Focus on what directly produces value. 
+- Learn to say NO.
+- Focus on the important and non-urgent.
+- Find ways to get into flow. “A state of effortless concentration so deep that they lose their sense of time, of themselves, of their problems.”
+- When possible, preserve larger blocks of focused time in your schedule.
+- Limit the amount of Work in Progress.
+  - Cost of context switching is high.
+- Prioritizing is difficult. 
+- Prioritization is high leverage. It has huge impact on your ability to get right things done.
 
 
 ### Invest in Iteration Speed 
-- Continuous Deployment
-- Will save a lot of time in manual deployment of code.They are the people who get things done. Effective Engineers produce results. 
+- Continuous Deployment is high leverage.
+  - Will save a lot of time in manual deployment of code.They are the people who get things done. Effective Engineers produce results. 
+- Move Fast to Learn Fast
+  - Move fast and break things.
+  - Moving fast enables us to build more things and learn at faster rate. 
+- Invest in time saving tools.
+  - If you have to do something more than twwise, write a tool the third time. 
+  - Tools are multipliers that allow your to scale your impact beyond the confines of a day.
+  - Faster tools get used more often.
+  - Faster tools can enable new workflows that previously weren't possible.
+  - Productivity skyrockets with tools.
+  - Time saving property of tools also scale with team adoption.
+- Shorten your debugging and Validation Loops
+  - Extra time spent in optimizing debugging workflow can help you fix annoying bugs with less headache.
+  - Debugging is hard. It's time conuming. Upfront investments to shorten debugging loops are worth it. 
 
+- Master you Programming Environment  
+  - One editor. One high level language. Shell. Keyboard > Mouse. Automate manual workflows. Use interactive shell. Make running specific tests easy.
+** Faster you can iterate, faster you can learn.** 
 
 ### Reduce Operational Complexity
 - Keep no. of technologies low. Don’t sway towards shiny new technologies.
