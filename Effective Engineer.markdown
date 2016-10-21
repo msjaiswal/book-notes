@@ -45,7 +45,7 @@
   - Build and maintain strong relationships.
 
 ### Prioritize Regularly
-- Opportunity cost on working on wrong ideas can set back growth by years. 
+- Opportunity cost of working on wrong ideas can set back growth by years. 
 - Prioritize tasks based on ROI
 - Regular prioritization is high leverage activity. 
 
