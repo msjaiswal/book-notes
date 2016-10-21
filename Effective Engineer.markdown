@@ -45,16 +45,15 @@
   - Build and maintain strong relationships.
 
 ### Prioritize Regularly
-- Opportunity cost of working on wrong ideas can set back growth by years. 
+- Opportunity cost of working on wrong ideas can set back growth by years.
 - Prioritize tasks based on ROI
-- Regular prioritization is high leverage activity. 
-
+- Regular prioritization is high leverage activity.
 - On TODO Lists
   - Maintain a 'single' todo lists where all tasks are listed. 
   - Don't try to remember stuff. Brain is bad at remembering. It's rather good at processing. 
-- Ask yourself regularly: Is this the most important thing I wshould be working on ? 
+- Ask yourself regularly: Is this the most important thing I should be working on ? 
 - Focus on what directly produces value. 
-- Learn to say NO.
+- Learn to say no.
 - Focus on the important and non-urgent.
 - Find ways to get into flow. “A state of effortless concentration so deep that they lose their sense of time, of themselves, of their problems.”
 - When possible, preserve larger blocks of focused time in your schedule.
