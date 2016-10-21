@@ -23,7 +23,7 @@
   - Own your story.
 
 - Invest in the rate of learning
-  - Compounding leads to exponential growth. Earlier the compounding starts, the better. 
+  - Learning compunds. Compounding leads to exponential growth. Earlier the compounding starts, the better. 
   - Working on unchallenging tasks is a huge opportunity cost. You missed out on compounded learning. 
   - Prioritize learning over profitability.
   - Invest your time in activities with the highest learning rate.
