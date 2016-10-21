@@ -155,3 +155,29 @@ He talks about bunch of other stuff that I am still to read and implement in my 
 - Service Configuration                   
 - PaaS                   
 - Containers, vagrant, docker and what not    
+
+
+### Microservices at Scale
+- Failure is inevitable.
+- Instead of trying to avoid failures, design for resiliency. 
+- With monolithic systems, health is binary. For MS based architectures, ask yourself "what happens if this service goes down?"
+- Embrace and Incite Failures
+- Netflix uses Chaos Monkey to simulate failures. 
+  - Sweat in peace so that you dont blood in War. 
+Techniques for Handling Failures:
+  - Timeouts.
+    - Wait too long and you will slow down the system. 
+    - Give up too quickly, a working call might appear faulty.
+    - Having no timeouts can hang your system!
+  - Circuit Breakers
+  - Isolation
+  - Idempotent
+Scaling
+  - Verical Scaling i.e. bigger boxes
+  - Splitting WOrkloads
+    - One MS per box. Preferably.
+  - Load Balancing  
+    - Useful when there are multiple boxes serving a single microservice.
+  - Worker based systems
+Scalin Database
+  - 
