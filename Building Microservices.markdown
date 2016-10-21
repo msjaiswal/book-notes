@@ -164,20 +164,77 @@ He talks about bunch of other stuff that I am still to read and implement in my 
 - Embrace and Incite Failures
 - Netflix uses Chaos Monkey to simulate failures. 
   - Sweat in peace so that you dont blood in War. 
-Techniques for Handling Failures:
-  - Timeouts.
-    - Wait too long and you will slow down the system. 
-    - Give up too quickly, a working call might appear faulty.
-    - Having no timeouts can hang your system!
-  - Circuit Breakers
-  - Isolation
-  - Idempotent
-Scaling
-  - Verical Scaling i.e. bigger boxes
-  - Splitting WOrkloads
-    - One MS per box. Preferably.
-  - Load Balancing  
-    - Useful when there are multiple boxes serving a single microservice.
-  - Worker based systems
-Scalin Database
-  - 
+
+#### Techniques for Handling Failures:
+- Timeouts.
+  - Wait too long and you will slow down the system. 
+  - Give up too quickly, a working call might appear faulty.
+  - Having no timeouts can hang your system!
+- Circuit Breakers
+- Isolation
+- Idempotent
+
+#### Scaling
+- Verical Scaling i.e. bigger boxes
+- Splitting Workloads
+  - Maximum one microservice per box. Preferred Option.
+- Load Balancing  
+  - Useful when there are multiple boxes serving a single microservice.
+- Worker based systems
+
+#### Scaling Database
+- Scaling for Reads
+  - Most services are read heavy.
+  - Caching. Read Replicas.
+- Scaling for Writes
+  - Sharding
+- CQRS - Command Query Responsibility Segregation
+
+#### Caching
+- ....
+
+#### Autoscaling
+- Reactive or Predictive
+- Benefits: Cost Saving
+
+#### CAP Theorem
+- Pick any two: consistency, availability, and partition tolerance.
+- Sacrificing Consistency
+  - These are eventually consistent.
+- Sacrificing Availability
+  - Distributed consistency is hard. 
+  - Distributed transactions, even harder.
+- AP systems scale more easily and are simpler to build
+- CP system require more work due to the challenges in supporting distributed consistency.
+
+#### Service Discovery
+- knowing where on earth everything is
+- Gets complicated when we are constantly destroying and deploying new instances of services.
+- Strategies: 1. "I am here" .... 
+- Common Solutions:
+  - DNS
+  - Dynamic Service registries
+    - Serices registers themselves with some central registry.
+    - Zookeeper, Consul 
+- Whatever system you pick, make sure you have tools available that let you build reports and dashboards on top of these registries to create displays for humans, not just for computers.
+
+#### The Self-Describing System
+- Have a place where humans can record information about the service.
+- Getting a picture of our system and how it is behaving is important.
+- Making this information readily available is key to managing the complexity at scale.
+
+### Bringing it all together
+- Model Around Business Concepts. Use bounded contexts to define potential domain boundaries.
+- Adopt a culture of automation. Automated testing.
+- Hide implementation details. Services should hide their databases.
+- Decentralize All the Things
+  - Ensure teams own their services.
+  - Use "Internal Open Source", allows people to change services owned by other teams.
+  - Align teams to make Conway's law work for you.
+  - Embrace Shared governance Model. All teams collectively share responsibility for evolving architecture.
+- Independently Deployable
+- Isolate Failure
+- Highly Observable
+  - We need a joined-up view of what is happening.
+  - Monitoring, logs and stats. Levarage multiple vantage points to get a view of system.
+- Go incrementally. Break your system apart piece by piece, learning as you go. And get used to it: in many ways, the discipline to continually change and evolve our systems is a far more important lesson to learn than any other.
