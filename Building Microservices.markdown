@@ -1,6 +1,7 @@
-# [Building Microservices](https://www.amazon.in/Building-Microservices-Designing-Fine-Grained-Systems-ebook/dp/B00T3N7XB4)
+# [Building Microservices](https://www.amazon.in/Building-Microservices-Designing-Fine-Grained-Systems-ebook/dp/B00T3N7XB4?tag=gludo-21)
 ![](https://images-eu.ssl-images-amazon.com/images/I/51e6hCWFZNL.jpg)
 
+#### Disclaimer
 Following are the notes that I made while reading the book. These concepts are not something which you can understand and digest all at once. But here is my attempt to make revision of the book easy.
 
 ### What are Microservices?
@@ -32,25 +33,23 @@ Individual microservices can be deployed independently in contrast with deployin
 Different microservices can be owned by different teams.
 
 ### Composability
-Reuse of functionality. Same microservice can be used for different purpose.
+Reuse of functionality. Same microservice can be used for different purpose. Unix Philosophy.
 
 ### Shared Libraries
 
 #### Disadvantages:
-- You loose true heterogeneity
+- You loose true heterogeneity.
 - Unless using dlls, you cannot deploy a new library without deploying the entire process.
 - What is ok?
   -  Shared Code that isn't specific to business domain and needs to be reused is fine.
 - What's not ok?
   - Shared code to communicate between services is NOT good at all. 
 
-
 ### Modules
 - Talks a bit about module and process level decoupling.            
 - TODO
 
 ### Evolutionary Architect
-
 - Architects are incharge of making sure we have a joined-up technical vision, the one that delivers the system customer needs. 
 - Architects have a direct impact on the quality of systems, on their organisation's ability to respond to change.
 - Be worried about what happens between the services and be liberal about what happens inside them.
