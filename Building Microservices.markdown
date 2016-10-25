@@ -119,15 +119,12 @@ Making decisions in system design is all about tradeoffs, and microservices arch
 - Make your service simple to consume
 - Hide internal implementation details 
 
-#### Random Tips:
+#### How to choose integration-method/communication between microservices:
 - Shared Database - avoid as much as possible.             
-- Synchronous Vs Asynchronous - 
-- RPC - :(
-- REST & HTTP :(
-- Async :) 
+- Synchronous is bad. Asynchronous is good.
+  - RPC, REST & HTTP :unamused:
+  - Async :smile: Example: gearman, Active MQ etc.
 - Read this book: Enterprise Integration Patterns - (Addison Weasley)        
-
-#### Services as State Machines      
 
 #### DRY and Perils of code sharing in Microservices
 - If your shared code ever leakes outside your service boundary, you have introduced a potential form of coupling.           
@@ -142,11 +139,24 @@ Making decisions in system design is all about tradeoffs, and microservices arch
 - Avoid for as long as possible.
 - Coexist old and new version of microservice. Transition gradually.
 
+### Splitting a Monolith
+- Create as many seams as possible. A seam is a portion of code that can be treated in solation.
+- Various reasons to split a monolith: to increase pace, adapt to team structure or technology, tangled dependencies etc.
+- TODO ... Transactional Boundaries
+- Always make small incremental changes when splitting the monolith.
+
+### Deployment
+- Continuous Integration
+- TODO
+
+### Testing 
+- Automated testcases is must. No surprises here.
+- Unit Tests, Service tests and end-to-end tests.
+- More smaller scoped tests lead to quick feedback loop.
+- End-to-end testing is hard and has many downsides. 
+
 ### TODO (Still to Read)
 He talks about bunch of other stuff that I am still to read and implement in my company. Here is a list:
-- Splitting a Monolith
-- Deployment
-- CI and CD 
 - Environments
 - Service Configuration
 - PaaS
