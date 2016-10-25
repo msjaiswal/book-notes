@@ -1,8 +1,8 @@
 # [Building Microservices](https://www.amazon.in/Building-Microservices-Designing-Fine-Grained-Systems-ebook/dp/B00T3N7XB4?tag=gludo-21)
-![](https://images-eu.ssl-images-amazon.com/images/I/51e6hCWFZNL.jpg)
+[![](https://images-eu.ssl-images-amazon.com/images/I/51e6hCWFZNL.jpg)](https://www.amazon.in/Building-Microservices-Designing-Fine-Grained-Systems-ebook/dp/B00T3N7XB4?tag=gludo-21)
 
 #### Disclaimer
-Following are the notes that I made while reading the book. These concepts are not something which you can understand and digest all at once. But here is my attempt to make revision of the book easy.
+Following are the notes that I made while reading the book. This is not intended to be a replacement for the book; but a complement. I have taken liberty to explain concepts differently and add references wherever appropriate.
 
 ### What are Microservices?
 Microservices are small, independently deployable, autonomous services that work together.
@@ -10,7 +10,10 @@ Small and focussed on doing one thing well.
 Microservices takes the approach of Single Responsibility Principle to independent services.
 
 ### How small can it go ?
-Smaller services => More number of services => more independence => More operational complexity.
+Smaller services => More number of services => more independence => More [operational complexity](https://github.com/msjaiswal/book-notes/blob/master/Effective%20Engineer.markdown#reduce-operational-complexity).
+
+Nanoservice is an antipattern where a service is too fine-grained. 
+A nanoservice is a service whose overhead (communications, maintenance, and so on) outweighs its utility.
 
 ### Autonomous
 Can be deployed independently
