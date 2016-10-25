@@ -4,41 +4,41 @@
 Following are the notes that I made while reading the book. These concepts are not something which you can understand and digest all at once. But here is my attempt to make revision of the book easy.
 
 ### What are Microservices?
-Microservices are small, autonomous services that work together.
+Microservices are small, independently deployable, autonomous services that work together.
 Small and focussed on doing one thing well.
 Microservices takes the approach of Single Responsibility Principle to independent services.
 
 ### How small can it go ?
-Smaller services => More number of services => more independence => More operational complexity.         
+Smaller services => More number of services => more independence => More operational complexity.
 
 ### Autonomous
 Can be deployed independently
 All communications via network calls.
-Exposes an API         
+Exposes an API
 
 ### Technology Heterogeneity
-Different part of systems can use different technology stack if needed for better performance. But multiple technologies comes with an overhead - operational understanding of multiple technology stacks. 
+Different part of systems can use different technology stack if needed for better performance. But multiple technologies comes with an overhead - operational understanding of multiple technology stacks.
 
 ### Resilience
 Microservices can provide resiliency by introducing redundancy.
 
 ### Scaling
-One part of the system can move to another machine. 
+One part of the system can move to another machine.
 
 ### Ease of Deployment
 Individual microservices can be deployed independently in contrast with deploying whole Monolith 
 
 ### Organization
-Different microservices can be owned by different teams. 
+Different microservices can be owned by different teams.
 
-### Composability 
-Reuse of functionality. Same microservice can be used for different purpose. 
+### Composability
+Reuse of functionality. Same microservice can be used for different purpose.
 
 ### Shared Libraries
 
 #### Disadvantages:
-- You loose true heterogeneity               
-- Unless using dlls, you cannot deploy a new library without deploying the entire process.         
+- You loose true heterogeneity
+- Unless using dlls, you cannot deploy a new library without deploying the entire process.
 - What is ok?
   -  Shared Code that isn't specific to business domain and needs to be reused is fine.
 - What's not ok?
@@ -236,3 +236,11 @@ He talks about bunch of other stuff that I am still to read and implement in my 
   - We need a joined-up view of what is happening.
   - Monitoring, logs and stats. Levarage multiple vantage points to get a view of system.
 - Go incrementally. Break your system apart piece by piece, learning as you go. And get used to it: in many ways, the discipline to continually change and evolve our systems is a far more important lesson to learn than any other.
+
+### Miscellaneous:
+- Differnce between Microserices and SOA: http://stackoverflow.com/a/33007471/578989
+- Martin Fowler on Microservices:
+  - (http://www.martinfowler.com/articles/microservices.html)
+  - (https://youtu.be/2yko4TbC8cI)
+  - (https://youtu.be/wgdBVIX9ifA)
+
