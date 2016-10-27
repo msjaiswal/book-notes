@@ -1,4 +1,4 @@
-# Effective Engineer
+# Effective Engineer - Notes
 - By Edmond Lau
 - Highly Recommended :+1:
 - http://www.theeffectiveengineer.com/
