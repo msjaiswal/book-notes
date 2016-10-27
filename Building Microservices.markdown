@@ -6,41 +6,28 @@ Following are the notes that I made while reading the book. This is not intended
 
 ### What are Microservices?
 Microservices are small, independently deployable, autonomous services that work together.
-Small and focussed on doing one thing well.
+THey are small and focussed on doing one thing well.
 Microservices takes the approach of Single Responsibility Principle to independent services.
+Microservices architecture asks you to break down your system in to multiple such microservices which interact with each other to accomplish the larger goal. 
 
 #### How small can it go ?
 Smaller services => More number of services => more independence => More [operational complexity](https://github.com/msjaiswal/book-notes/blob/master/Effective%20Engineer.markdown#reduce-operational-complexity).
-
-Nanoservice is an antipattern where a service is too fine-grained. 
+It's turns out to be a tradeoff about how small you can make your microservice.
+Nanoservice is an antipattern where a service is too fine-grained.
 A nanoservice is a service whose overhead (communications, maintenance, and so on) outweighs its utility.
 
-#### Autonomous
-- Can be deployed independently.
-- All communications via network calls.
-- Exposes an API.
 
-#### Technology Heterogeneity
-Different part of systems can use different technology stack if needed for better performance. But multiple technologies comes with an overhead - operational understanding of multiple technology stacks.
-
-#### Resilience
-Microservices can provide resiliency by introducing redundancy.
-
-#### Scaling
-One part of the system can move to another machine.
-
-#### Ease of Deployment
-Individual microservices can be deployed independently in contrast with deploying whole Monolith 
-
-#### Organization
-Different microservices can be owned by different teams.
-
-#### Composability
-Reuse of functionality. Same microservice can be used for different purpose. Unix Philosophy.
+#### Advantages of Microservice Architecture.
+- Autonomous: Can be deployed independently. All communications via network calls. Exposes an API.
+- Technology Heterogeneity: Different part of systems can use different technology stack if needed for better performance. But multiple technologies comes with an overhead - operational understanding of multiple technology stacks.
+- Resilience: Microservices can provide resiliency by introducing redundancy.
+- Scaling - One part of the system can move to another machine.
+- Ease of Deployment: Individual microservices can be deployed independently in contrast with deploying whole Monolith 
+- Organization: Different microservices can be owned by different teams.
+- Composability: Reuse of functionality. Same microservice can be used for different purpose. Unix Philosophy.
 
 #### Shared Libraries
-
-#### Disadvantages:
+Code must not shared between microservices as far as possible. Some disadvantages of shared code:
 - You loose true heterogeneity.
 - Unless using dlls, you cannot deploy a new library without deploying the entire process.
 - What is ok?
@@ -49,6 +36,10 @@ Reuse of functionality. Same microservice can be used for different purpose. Uni
   - Shared code to communicate between services is NOT good at all. 
 
 #### Evolutionary Architect
+In contrast to old notions of being an architect, author proposes a new guiding principle for being an architect. 
+He says: "Our architects need to shift their thinking away from creating the perfect end product, and instead focus on helping create a framework in which the right systems can emerge, and continue to grow as we learn more."
+
+Some generic points about being architect:
 - Architects are incharge of making sure we have a joined-up technical vision, the one that delivers the system customer needs. 
 - Architects have a direct impact on the quality of systems, on their organisation's ability to respond to change.
 - Be worried about what happens between the services and be liberal about what happens inside them.
@@ -58,15 +49,14 @@ Making decisions in system design is all about tradeoffs and microservices archi
 - Example: [12 factor app](https://12factor.net/)
 - Generally speaking, fewer than 10 principles suffice.
 
-**Practices**
+In addition to principle, some **practices** are necessary:
 - Practices sometimes reflect constraints. Example: Only Centos is allowed.
 - The key point is that there is value in having overarching ideas that guide how the system evolves, and in having enough detail so that people know how to implement those ideas.
 
 #### The Required Standard 
-- Define what is a "good citizen" service in your system ? 
-- "It needs to be a cohesive system made of may small parts with autonomous life cycles but all coming together." - Ben Christensen, Netflix               
+- Define what is a "good citizen" service in your system?
+- "It needs to be a cohesive system made of may small parts with autonomous life cycles but all coming together." - Ben Christensen, Netflix
 - Define clear set of attributes that each service should have.
-
 
 #### Monitoring
 - This has to be a system-wide view and not service-specific view.
