@@ -2,7 +2,7 @@
 [![](https://images-eu.ssl-images-amazon.com/images/I/51e6hCWFZNL.jpg)](https://www.amazon.in/Building-Microservices-Designing-Fine-Grained-Systems-ebook/dp/B00T3N7XB4?tag=gludo-21)
 
 #### Disclaimer
-Following are the notes that I made while reading the book. This is not intended to be a replacement for the book; but a complement. I have taken liberty to explain concepts differently and add references wherever appropriate.
+Following are the notes that I made while reading the book. This is not intended to be a replacement for the book; but a complement. I have taken liberty to explain concepts slightly differently and add additional references wherever I felt the need.
 
 ### What are Microservices?
 Microservices are small, independently deployable, autonomous services that work together.
@@ -150,10 +150,37 @@ Making decisions in system design is all about tradeoffs, and microservices arch
 - TODO
 
 ### Testing 
-- Automated testcases is must. No surprises here.
-- Unit Tests, Service tests and end-to-end tests.
-- More smaller scoped tests lead to quick feedback loop.
-- End-to-end testing is hard and has many downsides. 
+- Automated testcases are the key. No surprises here.
+- Unit Tests, Service tests and end-to-end tests are various techniques.
+- Smaller scoped tests lead to quick feedback loop.
+- End-to-end testing is hard and has many downsides. Take long time to run => long feedback cycles.
+- Prefer more small scoped tests and avoid end-to-end tests. 
+- Optimize for time to discovery of bugs. 
+
+### Monitoring
+- Monitor the small things, and use aggregation to see the bigger picture.
+- Kibana for aggregated view, Graphite
+- Services should expose basic metrics themselves.
+- Using fake events for Synthetic transaction and [semantic monitoring](https://www.thoughtworks.com/radar/techniques/semantic-monitoring).
+- Cascade Failures are dangerous. Solution: Circuit breaker.
+- Monitoring is one area where standardization is incredibly important. Write your logs out in a standard format and at standard location.
+- Have a single, queryable tool for aggregating and storing logs.
+
+### Security
+- TODO
+- Don’t write your own crypto. Don’t invent your own security protocols.
+
+### Conway's Law
+- Any organization that designs ssystem is constrained to produce design that copies the communication structure of the organization.
+- If you have 4 groups working on a compiler, you will get a 4 pass compiler.
+=> More loosely coupled organizations actually created more modular, less coupled systems.
+=> 2 pizza teams.
+- Geographically distributed teams produce loosely coupled system.
+- Service ownership - building, deploying and maintaining the service.
+- Service ownership gives people more power and autonomy, making them more accountable
+- Internal Open Source - A small group of people are core committers. Core committers are still in charge of the codebase; they are owners.
+- Along with service boundaries, align your team along bounded contexts too.
+- Trying to enforce a system design that doesn't match the organization can lead to tension.  
 
 ### TODO (Still to Read)
 He talks about bunch of other stuff that I am still to read and implement in my company. Here is a list:
