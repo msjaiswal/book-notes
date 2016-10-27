@@ -53,13 +53,10 @@ Reuse of functionality. Same microservice can be used for different purpose. Uni
 - Architects have a direct impact on the quality of systems, on their organisation's ability to respond to change.
 - Be worried about what happens between the services and be liberal about what happens inside them.
 
-#### A Principle Approach
-Making decisions in system design is all about tradeoffs, and microservices architecture gives us a lot of tradeoffs to make. 
-
-**Principles**
-- Principles are the rules you have made to align what you are doing in to some larger goal, and will sometimes change.
+#### A Principled Approach
+Making decisions in system design is all about tradeoffs and microservices architecture gives us a lot of tradeoffs to make. Principles are the rules you have made to align what you are doing in to some larger goal, and will sometimes change. Having a set of guiding principles help you go a long way to keep the system coherent.
 - Example: [12 factor app](https://12factor.net/)
-- Fewer than 10 principles are good.
+- Generally speaking, fewer than 10 principles suffice.
 
 **Practices**
 - Practices sometimes reflect constraints. Example: Only Centos is allowed.
