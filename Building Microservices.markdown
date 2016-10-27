@@ -6,14 +6,15 @@ Following are the notes that I made while reading the book. This is not intended
 
 ### What are Microservices?
 Microservices are small, independently deployable, autonomous services that work together.
-THey are small and focussed on doing one thing well.
+They are small and focussed on doing one thing well.
 Microservices takes the approach of Single Responsibility Principle to independent services.
 Microservices architecture asks you to break down your system in to multiple such microservices which interact with each other to accomplish the larger goal. 
 
 #### How small can it go ?
 Smaller services => More number of services => more independence => More [operational complexity](https://github.com/msjaiswal/book-notes/blob/master/Effective%20Engineer.markdown#reduce-operational-complexity).
-It's turns out to be a tradeoff about how small you can make your microservice.
-Nanoservice is an antipattern where a service is too fine-grained.
+
+It's turns out that deciding on size is a tradeoff between independence and the operation overhead.
+Extreme case of the tradeoff, a nanoservice, is an antipattern where a service is too fine-grained.
 A nanoservice is a service whose overhead (communications, maintenance, and so on) outweighs its utility.
 
 
@@ -49,12 +50,12 @@ Making decisions in system design is all about tradeoffs and microservices archi
 - Example: [12 factor app](https://12factor.net/)
 - Generally speaking, fewer than 10 principles suffice.
 
-In addition to principle, some **practices** are necessary:
+In addition to principles, some **practices** are necessary:
 - Practices sometimes reflect constraints. Example: Only Centos is allowed.
 - The key point is that there is value in having overarching ideas that guide how the system evolves, and in having enough detail so that people know how to implement those ideas.
 
 #### The Required Standard 
-- Define what is a "good citizen" service in your system?
+- Define what is a "good citizen" service in your system.
 - "It needs to be a cohesive system made of may small parts with autonomous life cycles but all coming together." - Ben Christensen, Netflix
 - Define clear set of attributes that each service should have.
 
@@ -72,7 +73,7 @@ In addition to principle, some **practices** are necessary:
                   
 #### Technical Debt
 
-- It's a metaphor to understand the efffects of writing bad code under certain circumstances.
+- It's a metaphor to understand the effects of writing bad code under certain circumstances.
 - Doing things in a quick and dirty way to deliver a project leads to technical debt.
 - Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choices. 
 - We can choose to continue paying the interest, or we can pay down the principal by 'refactoring' the quick and dirty design into the better design.
@@ -266,3 +267,4 @@ He talks about bunch of other stuff that I am still to read and implement in my 
   - (https://youtu.be/2yko4TbC8cI)
   - (https://youtu.be/wgdBVIX9ifA)
 
+As you can see, this book is full of practical advices. There are studies and stories behind every advice. Here is the link to [amazon.com](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems-ebook/dp/B00T3N7XB4?tag=gludo-21) and [amazon.in](https://www.amazon.in/Building-Microservices-Designing-Fine-Grained-Systems-ebook/dp/B00T3N7XB4?tag=gludo-21) in case you decide to buy.
