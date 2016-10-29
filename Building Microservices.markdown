@@ -18,7 +18,7 @@ Extreme case of the tradeoff, a nanoservice, is an antipattern where a service i
 A nanoservice is a service whose overhead (communications, maintenance, and so on) outweighs its utility.
 
 
-#### Advantages of Microservice Architecture.
+#### Properties of Microservice Architecture.
 - Autonomous: Can be deployed independently. All communications via network calls. Exposes an API.
 - Technology Heterogeneity: Different part of systems can use different technology stack if needed for better performance. But multiple technologies comes with an overhead - operational understanding of multiple technology stacks.
 - Resilience: Microservices can provide resiliency by introducing redundancy.
