@@ -95,7 +95,7 @@
     - Helps you focus on right things.
     - Drives forward progress.
     - Helps you guard against future regressions. 
-    - Performance Ratcheting: Any change should strictly improve the metric.  
+    - **Performance Ratcheting**: Any change should strictly improve the metric.  
     - Bad metric can lead to unwanted behavior.
     - Examples: 
       - #hours worked < Productivity
