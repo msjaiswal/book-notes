@@ -1,3 +1,8 @@
+Before we get into the summary of book, let's ponder on the meaning of word "Pragmatic". 
+
+**Pragmatic**: Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.
+
+
 ## Pragmatic Programmer
 
 * Take Responsibility - Provide Options, Don't Make Lame Excuses 
@@ -12,14 +17,16 @@ On gurus:
 - Frame your question carefully and politely. Remember that you're asking a favor; don't seem to be demanding an answer. 
 
 ### Communicate! 
+- Communicate a lot.
 - Adjust the style of your delivery to suit your audience.
 - Your ideas are important. They deserve a good-looking vehicle to convey them to your audience. 
 - Choose your moment.
 - Get back to people ****
 
-### Keep it try - duh! 
+### Keep it DRY (Don't Repeat Yourself) - duh! 
+- DRY says: Avoid code duplication.
 - Tradeoff: Not DRY Vs High Coupling. 
-    - MJ: Keep it not dry and write a cron to ensure things remain same.
+    - My personal tip: Keep it not dry and write a cron to ensure things remain same.
 - Make it easy to reuse
 - Orthogonal. Eliminate effects between unrelated things.
 
@@ -28,9 +35,9 @@ On gurus:
 - Estimate to avoid surprises.
 
 ### Debugging
-- Before debugging, set the right mindset. Turn off defences for ego, pressure and relax. Don’t panic. 
+- Before debugging, set the right mindset. Turn off your ego. Relax; to bug is human. Don’t panic. 
 - Make it reproducible.
-- Rubber ducking Explain it to someone.
+- Rubber Ducking: Explain it to someone.
 - Binary Search :P
 
 ### Design By Contract
