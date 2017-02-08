@@ -1,5 +1,6 @@
 Notes from the book [Deep Work](http://www.amazon.in/Deep-Work-Focused-Success-Distracted/dp/0349413681).
 
+# Deep Work is Valuable
 
 
 ## Rule 1 - Work Deeply 
@@ -19,9 +20,19 @@ Act Monastically during deep time.
 Aim to reach maximum cognitive intensity. 
 People will generally respect youer right to become inaccessible if these periods are well defined and well advertized. 
 
-2. Rhythmic Philosophy of Deep work Scheduling
+3. Rhythmic Philosophy of Deep work Scheduling
 Keep doing something for a few days and keep crossing dates on a calenndar. That long chain of Xs is satisfying. => Rhythm
+By supporting deep work with rock solid routines that make sure something gets done on a regular basis, rhythmic scheduler logs more deep hours per year.
 
+4. Journalistic Philosophy of Deep work Scheduling
+Journalistic Philosophy is you fit deep work whenever you can into your schedule.
+Not for deep work novice. 
+Difficult to pull off.
+
+### Ritualize 
+### Make Grand Gestures
+
+## Rule 2 - Embrace Boredom
 
 
 ## Rule 3 - Quit Social Media
