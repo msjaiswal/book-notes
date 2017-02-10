@@ -3,11 +3,19 @@ Notes from the book [Deep Work](http://www.amazon.in/Deep-Work-Focused-Success-D
 # Deep Work is Valuable
 
 
+
 ## Rule 1 - Work Deeply 
 To create a setting where the users can get into state of deep human flourishing ...
 The purpose of deep work chamber is to allow for total focus and uninterrupted work flow. 
 You have a finite amount of willpower that becomes depleted as you use it. 
 Add routines and rituals into your working life designed to minimize willpower to transition into state of unbroken concentration. 
+
+### Busyness as proxy for Productivity
+- Richard Feynmann: To do good physics work, its needs absolute solid lengths of time, lots of concentration. If you have job administrating anything, you dont have time. He says "I am irresponsible". To anyone trying to pull him in any comittee, he says I am irresponsible. 
+- When there is lack of clearity in definition of productivity, workers tent to do a lot of work in visible manner. 
+- This is a reason for depth destroying behaviors. 
+
+
 
 #### Depth Philosophy 
 1. Monastic Philosophy of Deep work Scheduling
