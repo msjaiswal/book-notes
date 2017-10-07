@@ -70,7 +70,7 @@
   - Move fast and break things.
   - Moving fast enables us to build more things and learn at faster rate. 
 - Invest in time saving tools.
-  - If you have to do something more than twwise, write a tool the third time. 
+  - If you have to do something more than twice, write a tool the third time. 
   - Tools are multipliers that allow your to scale your impact beyond the confines of a day.
   - Faster tools get used more often.
   - Faster tools can enable new workflows that previously weren't possible.
