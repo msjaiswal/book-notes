@@ -81,8 +81,16 @@ But once you reach a local maxima, you stop learning.
 Admitting you have made a mistaleor you're simply out of your league is a way to increase your status over the long run. 
 
 
+## Every Boat Needs a Captain 
 
+Whether officially appointed or not, somone needs to get into the driver's seat if your project is ever going anywhere, and if you are motivated type, that person might be you.
+Leader is the new Manager. 
+HRT way of managing: Manager makes it obvious that she trusts her employe and the employee feels a positive pressure to live upto that pressure. 
 
+- Traditional managers worry about how to get things done, while leaders worry about what things get done (and trust their team to figure out how to do it).
+- Being a "leader" does not mean that you have ultimat eresponsibility for absolutely everything.
+- Good measure of success - Making it possible to make your team happy and productive. 
+- Great reason to be a manager - It's a way to scale yourself.
 
 
 
