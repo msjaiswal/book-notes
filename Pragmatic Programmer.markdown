@@ -4,7 +4,6 @@ Before we get into the summary of book, let's ponder on the meaning of word "Pra
 
 
 ## Pragmatic Programmer
-
 * Take Responsibility - Provide Options, Don't Make Lame Excuses 
 * Don't Live with Broken Windows (bad designs, wrong decisions, or poor code )
 * Be a Catalyst for Change
@@ -57,10 +56,8 @@ On gurus:
 - Test your software or users will.
 
 **Perfection is achieved, not when there is nothing left to add but when there is nothing to throw away.**
-
 - Don’t be a slave to formal methods like UML etc.
 - Civilisations advance by extending the number of important operations we can perform without thinking about them. 
-
 
 ### Test early, Test often. Test Automatically. 
 - The earlier a bug is found, the cheaper it is to remedy. 
