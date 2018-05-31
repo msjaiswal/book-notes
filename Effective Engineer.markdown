@@ -107,7 +107,7 @@
   - Responsive metric - Updates quickly to give back feedback whether a given change was =ve or -ive.
   - Choosing a metric is high leverage.
   - Dedicate time to pick right metric. 
-- Instrument everythong to understand what's going on. 
+- Instrument everything to understand what's going on. 
   - Measure anything, measure everything. 
   - Graphite, statsd. A single line of code lets you define a new counter or timer on the fly. 
   - Measuring goals you want to achieve is high leverage.
