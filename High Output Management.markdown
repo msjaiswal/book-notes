@@ -22,7 +22,7 @@ Example:
 
 # Managerial Leverage
 
-Management is a team game.
+
 A manager must keep many balls in the air at the same time and shift his energy and attention to activities with highest leverage.
 
 Information Gathering:
@@ -95,5 +95,28 @@ TODO ... more on meetings.
 
 
 
+# The Sports Analogy
 
+Management is a team activity. 
+No matter how well the team is put together, no matter how well its directed, the team will perform only as well as individuals in it. 
 
+When a person is not doing his job, there can only be two reasons for it. The person either can't do it or won't do it; he is either not motivated or not capable.
+TO determine which, we can employ a simple mental test: If the person's life was dependant on doing the work, will he do it? If yes, the person is not motivated or he is not capable. 
+
+All a manager can do is create an environment in whihc motivated people can flourish.
+
+For Maslow, motivation is closely tied to the idea of *needs*, whch causes people to have *drive*, whihc in turn results in *motivation*
+
+Simply put, if we are to create and maintain a high degree of motivation, we must keep some needs unsatisfied all the times.
+
+*Psycological Needs*
+The needs that money can buy like food, clothes and other basic necessities. Fear is hitched to such needs. 
+
+Safety and Security Needs
+Medical insurance provides employees protection against fear of getting bankrupt. 
+
+Social and Affiliation Needs
+When people are excited, confident or happy, they want to be around people who are also excited, confident, or happy. 
+Conversely, misery loves not just any company, but the company of other miserable people. Nobody who is miserable wants to be surrounded by who is happy. 
+
+Social needs are powerful. For example, there was a friend for whom going to work meant being around a group of people she liked. Another example is Jim left the company since everyone was married and was atleast 10 years older.
