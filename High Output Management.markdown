@@ -65,6 +65,30 @@ Interruption - the palue of managerial work.
 Most common problem - uncontrolled interruptions.
 Solution: Create a FAQ
 
+# 4. Meetings - The medium of Mangerial Work 
+
+Meetings are nothing less than the *medium* through which managerial work is performed. 
+
+## One-on-ones
+Main purpose is mutual teaching and exchange of information.
+A supervisor can teach subordinate his skills and know-how, and suggest ways to approach things.
+A supervisor should perhaps meet with all those who work under him
+
+When to do one-on-ones ? 
+Answer is based on *task-relevant-maturity*.
+You should have one-on-ones frequently with subordinate who is inexperienced in a specific situation and less frequently with an experienced veteran.
+A one-on-one should last atleast an hour. manager should facilitate the subordinate's expression of what's going on and what's bothering him. Managers are there to learn and coach. 
+Peter Drucker: "The good time users mong managers do not talk to their subordinates about their problems but they know how to make the subordinates talk about theirs."
+Principle of Didactic Management: "Ask one more question". When the supervisor thinks thhe subordinate has said all he wants to about a subject, he should ask another question.
+Encourage heart-to-heart issues.
+> Ninety minutes of your time can enhance the quality of your subordinate's work for two weeks.
+
+TODO ... more on meetings.
+
+# 5. Decisions Decisions
+
+
+
 
 
 
