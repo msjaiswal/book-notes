@@ -43,5 +43,14 @@ Company is percieved as more educated and sophasticated than any of its competit
 - Market Data is way more motivational than the product data. It should be part of your Stadium Pitch.
 
 
+## Art of Getting the Best Buyers 
 
+There is always a smaller number of best buyers than there are all buyers. Best buyers buy more, buy faster, and buy more often than other buyers. The fastest way to grow any company is to focus a specialand dedicated effort on your dream clients. 
+
+Motivators: 
+- Fear .. Article with title: "The Five Most Dangerous Trends Facing Law Firms"
+- Social Proof .. When the best buyers buy, other best buyers buy faster.
+
+Keep selling irrespective of No's.  
+If they tell you no again and again and you keep marketing and selling to them, her is what will happen: they will go from not knowing you to knowing who you are and to maybe even being annoye that you won't go away to starting to respect you because no one has ever marketed to them with such a 
 
