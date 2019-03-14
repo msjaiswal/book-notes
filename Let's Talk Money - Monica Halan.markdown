@@ -47,9 +47,9 @@ In metros, you need 15 lakhs of cover.
 Call your financial planner. It's impossible for an average person to know enough to buy a policy.
 3 things to consider: 
 1. Price
-    How does the price compares with policies from other companies right nowand how does the price compare over the years? 
-    Your policy may cost least today but may become the most expensive when you hit age sixty or seventy. 
-    Ask your agent to show you the price comparison at ten-year difference.
+    * How does the price compares with policies from other companies right nowand how does the price compare over the years? 
+    * Your policy may cost least today but may become the most expensive when you hit age sixty or seventy. 
+    * Ask your agent to show you the price comparison at ten-year difference.
 2. Benefits
     * Ensure that yyou have a policy that does not have something called a 'co-pay' clause. 
     * Check for a 'pre-existing' disease clause.
