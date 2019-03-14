@@ -51,14 +51,14 @@ Call your financial planner. It's impossible for an average person to know enoug
     Your policy may cost least today but may become the most expensive when you hit age sixty or seventy. 
     Ask your agent to show you the price comparison at ten-year difference.
 2. Benefits
-    Ensure that yyou have a policy that does not have something called a 'co-pay' clause. 
-    Check for a 'pre-existing' disease clause.
-    Check to see  how long is the waiting period.
-    Check if your policy has a 'disease waiting period'.
-    Check if your policy has 'sub-limits'. Example: Only 1% of total cover can be spent on room rent. 
-    Check for exclusions i.e. a list of diseases, conditions and medical services that policy does not cover. 
-    Ask how much of the costs before and after hospitalization the policy will cover. 
-    Ask for a list of 'day-care' procedures that don't need you to stay for twenty-for hours in a hospital any more.
+    * Ensure that yyou have a policy that does not have something called a 'co-pay' clause. 
+    * Check for a 'pre-existing' disease clause.
+    * Check to see  how long is the waiting period.
+    * Check if your policy has a 'disease waiting period'.
+    * Check if your policy has 'sub-limits'. Example: Only 1% of total cover can be spent on room rent. 
+    * Check for exclusions i.e. a list of diseases, conditions and medical services that policy does not cover. 
+    * Ask how much of the costs before and after hospitalization the policy will cover. 
+    * Ask for a list of 'day-care' procedures that don't need you to stay for twenty-for hours in a hospital any more.
     
     
 3. Claims 
