@@ -28,3 +28,10 @@ Having an emergency fund gives you a cusion.
 Six months of Living Costs. 
 
 **Where to Keep this Money ?**
+You need to move it to a place that is not that easy ti access, but yet is liquid enough to be of use when you want it and gives a return that is better than a savings deposit. 
+Options: 
+* Flexi FDs.
+* Divide your funds into smaller FDs
+* Short Term Debt Funds (Mutual Fund). Better than FDs in terms of liquiditity and tax-savings. 
+
+Keep crediting your emergency fund every month. 
