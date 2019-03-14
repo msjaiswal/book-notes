@@ -35,3 +35,35 @@ Options:
 * Short Term Debt Funds (Mutual Fund). Better than FDs in terms of liquiditity and tax-savings. 
 
 Keep crediting your emergency fund every month. 
+
+
+## Mediclaims 
+You must have your own cover and not the one given by your company. 
+Getting a good medical cover is probably more important than buying life insurance - you ar emore likely to go to the hospital with an illness or accident than die. 
+Companies are reluctant to cover older people and people with diseases. 
+In metros, you need 15 lakhs of cover. 
+
+**What policy to buy?** 
+Call your financial planner. It's impossible for an average person to know enough to buy a policy.
+3 things to consider: 
+1. Price
+    How does the price compares with policies from other companies right nowand how does the price compare over the years? 
+    Your policy may cost least today but may become the most expensive when you hit age sixty or seventy. 
+    Ask your agent to show you the price comparison at ten-year difference.
+2. Benefits
+    Ensure that yyou have a policy that does not have something called a 'co-pay' clause. 
+    Check for a 'pre-existing' disease clause.
+    Check to see  how long is the waiting period.
+    Check if your policy has a 'disease waiting period'.
+    Check if your policy has 'sub-limits'. Example: Only 1% of total cover can be spent on room rent. 
+    Check for exclusions i.e. a list of diseases, conditions and medical services that policy does not cover. 
+    Ask how much of the costs before and after hospitalization the policy will cover. 
+    Ask for a list of 'day-care' procedures that don't need you to stay for twenty-for hours in a hospital any more.
+    
+    
+3. Claims 
+
+
+You are doing OK if: 
+* Along with work, you have your own cover.
+* You have 15 lakhs of cover.
