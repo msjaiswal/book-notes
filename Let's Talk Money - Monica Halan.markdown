@@ -89,19 +89,21 @@ Separate your investment and insurance products. For insurance, go for term plan
 
 Buy Insurance for all your debts as - home loan, personal loan etc.
 
-**When to buy Insurance? **
+
+**When to buy Insurance?**
+
 
 - Buy the policy the moment you realize that other people will suffer if you die suddenly.
 - If the wife is working, you may postpone. 
 - If unmarried siblings or dependant parents. 
 
-**Which policy to buy? **
+**Which policy to buy?**
 
 - Buy the one that gets you till you get financial independance. 
 1. Get a cheap plan. Online > Agent
 2. Look at claims experience. >= 95%
 
-**When NOT to buy? **
+**When NOT to buy?**
 
 - If there will be nobody to miss your income. 
 - You are financially free
