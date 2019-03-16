@@ -67,3 +67,44 @@ Call your financial planner. It's impossible for an average person to know enoug
 You are doing OK if: 
 * Along with work, you have your own cover.
 * You have 15 lakhs of cover.
+
+
+## Insurance - What if you Die ? 
+
+Wrong reasons to buy Insurance: Fear, Greed, Pity, Frustration and Taxes 
+Only Correct Reason: To protect your family's financial health if you die an untimely death. 
+
+Plan for your death: 
+- Tell your family where the papers are. 
+- Tell your family where the passwords are. 
+
+Things that hit you when you suddenly disappear:
+- Debtyou have, Home Loan, car loan, education, personal loans, credit card debt
+
+Term Plan: A pure Insurance Policy. It pays you when you die. If you outlive your policy, no money comes back. Simple!
+
+Indian Insurance Industry = Vultures. They feed off of your trust and willingness to believe in their bad products. 
+
+Separate your investment and insurance products. For insurance, go for term plan. For investment, go for mutual funds. 
+
+Buy Insurance for all your debts as - home loan, personal loan etc.
+
+**When to buy Insurance? **
+
+- Buy the policy the moment you realize that other people will suffer if you die suddenly.
+- If the wife is working, you may postpone. 
+- If unmarried siblings or dependant parents. 
+
+**Which policy to buy? **
+
+- Buy the one that gets you till you get financial independance. 
+1. Get a cheap plan. Online > Agent
+2. Look at claims experience. >= 95%
+
+**When NOT to buy? **
+
+- If there will be nobody to miss your income. 
+- You are financially free
+
+Retirement either comes with a pension or a lump sum that is 9invested to harvest an income. 
+The job of Insurance is to serve you till you are debt-free and financially independant. 
