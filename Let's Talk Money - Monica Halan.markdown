@@ -37,7 +37,7 @@ Options:
 Keep crediting your emergency fund every month. 
 
 
-## Mediclaims 
+## Mediclaims - Build your protection 
 You must have your own cover and not the one given by your company. 
 Getting a good medical cover is probably more important than buying life insurance - you ar emore likely to go to the hospital with an illness or accident than die. 
 Companies are reluctant to cover older people and people with diseases. 
@@ -110,3 +110,11 @@ Buy Insurance for all your debts as - home loan, personal loan etc.
 
 Retirement either comes with a pension or a lump sum that is 9invested to harvest an income. 
 The job of Insurance is to serve you till you are debt-free and financially independant. 
+
+**You are doing OK if:**
+- You have a pure term plan
+- You bought it online 
+- Sum assured >= 10 * Annual Take Home. 
+
+## Investing!
+
