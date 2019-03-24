@@ -118,3 +118,11 @@ The job of Insurance is to serve you till you are debt-free and financially inde
 
 ## Investing!
 
+### House 
+Rule of Thumb - Buy when there is an yield >= 5% and sell when the yield <= 4%
+Also add cost of House Loan, stamp duty and registration. If still yield >=5, then buy. 
+So, house is not a good investment. But if you are living in the house, story is different. 
+
+
+
+
