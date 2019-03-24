@@ -118,11 +118,32 @@ The job of Insurance is to serve you till you are debt-free and financially inde
 
 ## Investing!
 
+Financial Advisor != Broker 
+(Only Advising)      (Only Broking)     
+
 ### House 
-Rule of Thumb - Buy when there is an yield >= 5% and sell when the yield <= 4%
-Also add cost of House Loan, stamp duty and registration. If still yield >=5, then buy. 
+Why Real Estate sucks as an Investment Vehicle:
+ * Stamp Duty + Registration + Other Transaction Costs >= 10% 
+ * Tax Unfriendliness. Long Term Capital Gains = 20% 
+ * Least Clean Sector 
+ * Illiquid 
+
+*When to buy and sell ?*
+  * Buy when there is an yield >= 5% and sell when the yield <= 4%
+  
 So, house is not a good investment. But if you are living in the house, story is different. 
+Commercial property prices are half of residential prices! 
+Real Estate hardly gives returns over a long periods of time. Its a bubble and correction is imminent. 
 
 
+### Coffee Can Investing 
+ Historical Performance of Fund does not indicate future performance.
+ Direct >> Funds with Expense Ratio 
+ ETF and Passive Funds >> Actively Managed, Large Cap Funds. 
+   - Why Large-Cap alpha is squeezing with time. Markets are becoming effecient. 
+ 
+Move your money: Real Estate ---> Financial System  
 
+Investing for long periods of time in high-quality portfolios 
+         |
 
