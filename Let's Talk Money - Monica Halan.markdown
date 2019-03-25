@@ -143,7 +143,12 @@ Real Estate hardly gives returns over a long periods of time. Its a bubble and c
    - Why Large-Cap alpha is squeezing with time. Markets are becoming effecient. 
  
 Move your money: Real Estate ---> Financial System  
+Large Cap. Valuation > 20k Cr
+Small Cap. Valuation <= 3k Cr
 
-Investing for long periods of time in high-quality portfolios 
-         |
-
+Equity Allocation
+- 20% Large Caps provide anchor to your portfolio. Go for ETF for large-cap investment. Expected 15% return
+- 20% CCP. Expected to get 20% return 
+- Small-idcap. Pick a large number if stocks. Winners end up compensating for losers. 
+- 3 small caps MF with Growth option.
+- 
