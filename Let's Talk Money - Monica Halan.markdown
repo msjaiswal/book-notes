@@ -140,15 +140,21 @@ Real Estate hardly gives returns over a long periods of time. Its a bubble and c
  Historical Performance of Fund does not indicate future performance.
  Direct >> Funds with Expense Ratio 
  ETF and Passive Funds >> Actively Managed, Large Cap Funds. 
-   - Why Large-Cap alpha is squeezing with time. Markets are becoming effecient. 
+   - Because Large-Cap alpha has been squeezing in past decade. Markets are becoming effecient. Outperforming ETF will be very difficult. 
  
-Move your money: Real Estate ---> Financial System  
+Move your money: Real Estate ---> Financial System
+
+*Selecting CCP*
 Large Cap. Valuation > 20k Cr
 Small Cap. Valuation <= 3k Cr
 
-Equity Allocation
-- 20% Large Caps provide anchor to your portfolio. Go for ETF for large-cap investment. Expected 15% return
+*Equity Allocation*
+Large Cap
+- 20% Large Caps in the form of ETF provides a rock solid anchor to your portfolio. Expected 15% return
 - 20% CCP. Expected to get 20% return 
-- Small-idcap. Pick a large number if stocks. Winners end up compensating for losers. 
-- 3 small caps MF with Growth option.
-- 
+Mid and Small
+- 20% Good and Clean. CCP, Small-midcap. Pick a large number of stocks. Winners end up compensating for losers. 
+- 20% Three small caps MF with Growth option.
+
+
+
